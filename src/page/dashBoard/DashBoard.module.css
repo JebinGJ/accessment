@@ -1,0 +1,20 @@
+.DashBoardCont {
+    border: 1px solid #DCDCDC;
+    margin: 20px;
+    height: calc(100vh - 40px);
+    padding: 20px;
+}
+.DashBoardParent {
+    border: 1px solid #DCDCDC;
+    height: 300px;
+    padding: 20px;
+}
+
+.parent {
+    border: 1px solid #DCDCDC;
+    height: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
